@@ -189,7 +189,7 @@ body {
     font-family: "Poppins", sans-serif;
     font-size: 14px;
 
-    /*Aligning text vertically inside a button "REGISTER". Выравнивание текста по вертикали внутри  кнопки "REGISTER"*/
+    /*Aligning text vertically inside a button "REGISTER"*/
     appearance: none;
     display: inline-flex; 
     align-items: center;
@@ -201,7 +201,7 @@ body {
  
 
 }
-/*Change button color on click. Замена цвета кнопки при нажатии*/
+/*Change button color on click.*/
 .clearfix__reg__button:focus,
 .clearfix__reg__button:hover {
     background-color: rgba(0, 113, 240, 0.7);
@@ -229,7 +229,7 @@ body {
     /*border: 1px double black; */
 }
 
-/*Registration windows styling. Стилизация окон регистрации.*/
+/*Registration windows styling.*/
 input[type=text], input[type=password], input[type=tel] {
   width: 100%;
   padding: 14px 0px;
@@ -243,6 +243,6 @@ input[type=text], input[type=password], input[type=tel] {
   /*border: 1px double black; */     
 }
 
-/*Button Styling "Register". Стилизация кнопки "Register"*/
+/*Button Styling "Register"*/
 button [type=submit] {
 }
